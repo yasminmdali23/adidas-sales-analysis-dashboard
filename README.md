@@ -16,6 +16,9 @@ A corporate-level Power BI sales operations dashboard analyzing retail revenue, 
 * **Distributor Analysis:** A ranked bar chart showcasing performance metrics across retail giants, identifying West Gear ($243M) and Foot Locker ($220M) as premier distribution partners.
 * **Date & Region Filters:** Dropdown slicers filtering the report instantly across exact invoice dates and sales territories.
 
+![ADIDAS Dashboard](Screenshot 2026-05-27 152736.png)
+
+
 ## 🛠️ Tools & Technologies
 * **Power BI Desktop:** Power Query Data Cleaning, KPI Cards, Shape Map Visuals, and Interactive Slicers.
 
